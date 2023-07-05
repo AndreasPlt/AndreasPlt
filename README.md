@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasPlt
-- 👀 I’m a second semester computer science student at RWTH Aachen, interested in Machine Learning and Computer Vision.
-- 🌱 I’m currently learning ...
+- 👀 I’m a fourth semester computer science student at RWTH Aachen, interested in Machine Learning with a focus on Natural Language topics like machine translation and speech recognition... and in classical music as well!
+- 🌱 I’m currently learning machine translation using PyTorch, mathematical logic, applied stochastics and databases/information systems.
 - 📫 How to reach me: andreas.pletschko@rwth-aachen.de
 
 <!---
