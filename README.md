@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andi</h1>
-<h3 align="center">"The science of today is the technology of tomorrow" - Edward Tekker
+<h3 align="center">"The science of today is the technology of tomorrow" - Edward Teller
 </h3>
 
 - 👨‍🎓 I'm currently a Bachelor's Computer Science student at RWTH Aachen University, Germany
