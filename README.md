@@ -2,7 +2,7 @@
 <h3 align="center">"The science of today is the technology of tomorrow" - Edward Teller
 </h3>
 
-- 👨‍🎓 I'm currently a Bachelor's Computer Science student at RWTH Aachen University, Germany
+- 👨‍🎓 I'm recently completed my Bachelor's Computer Science student at RWTH Aachen University, Germany
 
 - 🔥 I'm passionate about machine learning and extracting knowledge from data
 
