@@ -2,11 +2,11 @@
 <h3 align="center">"The science of today is the technology of tomorrow" - Edward Teller
 </h3>
 
-- 👨‍🎓 I'm recently completed my Bachelor's Computer Science student at RWTH Aachen University, Germany
+- 👨‍🎓 I'm currently an MPhil in Advanced Computer Science student at the University of Cambridge, United Kingdom
 
-- 🔥 I'm passionate about machine learning and extracting knowledge from data
+- 🔥 I'm passionate about machine learning and extracting knowledge from data as well as large-scale distributed systems
 
-- 🌱 I’m currently learning **about mobile robotics and playing the guitar :)**
+- 🌱 I’m currently learning **about mobile robotics, Rust, and playing the guitar :)**
 
 - 💬 Ask me about **Python, PyTorch and coffee making**
 
